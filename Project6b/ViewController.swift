@@ -77,7 +77,7 @@ class ViewController: UIViewController {
 //            }
 //            previous = label
 //        }
-        //Chalange1
+        //Challenge1
 //        var previous: UILabel?
 //        for label in [label1,label2,label3,label4,label5]{
 //            label.heightAnchor.constraint(equalToConstant: 88).isActive = true
@@ -90,7 +90,7 @@ class ViewController: UIViewController {
 //            }
 //            previous = label
 //        }
-        //Chalange2
+        //Challenge2
 //        var previous: UILabel?
 //        for label in [label1,label2,label3,label4,label5]{
 //            label.heightAnchor.constraint(equalToConstant: 88).isActive = true
@@ -103,7 +103,7 @@ class ViewController: UIViewController {
 //            }
 //            previous = label
 //        }
-        //Chalange3
+        //Challenge3
 //        var previous: UILabel?
 //        for label in [label1,label2,label3,label4,label5]{
 //            label.leadingAnchor.constraint(equalTo: view.safeAreaLayoutGuide.leadingAnchor, constant: 10).isActive = true
@@ -119,7 +119,7 @@ class ViewController: UIViewController {
 //            previous = label
 //        }
 //        label5.bottomAnchor.constraint(greaterThanOrEqualTo: view.safeAreaLayoutGuide.bottomAnchor, constant: 10).isActive = true
-        //Chalange3
+        //Challenge3
         var previous: UILabel?
         for label in [label1,label2,label3,label4,label5]{
             label.leadingAnchor.constraint(equalTo: view.safeAreaLayoutGuide.leadingAnchor, constant: 10).isActive = true
